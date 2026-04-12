@@ -46,7 +46,7 @@ IntelliPrep.AI allows users to:
 * Interview history tracking
 * Result visualization
 
-## 💳 Payment Integration
+## Payment Integration
 
 * Razorpay Payment Gateway
 * Premium Plan Access
