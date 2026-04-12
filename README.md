@@ -1,4 +1,4 @@
-# 🚀 IntelliPrep.AI — AI Powered Mock Interview Platform
+# IntelliPrep.AI — AI Powered Mock Interview Platform
 
 IntelliPrep.AI is an AI-powered mock interview platform that helps users practice technical interviews using intelligent question generation, answer evaluation, and performance feedback.
 
@@ -6,7 +6,7 @@ The platform simulates real interview scenarios, evaluates answers using AI, pro
 
 ---
 
-# 📌 Project Overview
+# Project Overview
 
 IntelliPrep.AI allows users to:
 
@@ -21,9 +21,9 @@ IntelliPrep.AI allows users to:
 
 ---
 
-# 🧠 Key Features
+# Key Features
 
-## 🔐 Authentication System
+## Authentication System
 
 * User Registration
 * User Login
@@ -31,7 +31,7 @@ IntelliPrep.AI allows users to:
 * Secure Cookies
 * Password Hashing
 
-## 🤖 AI Interview System
+## AI Interview System
 
 * AI-generated interview questions
 * AI-based answer evaluation
@@ -39,7 +39,7 @@ IntelliPrep.AI allows users to:
 * Feedback generation
 * Interview simulation
 
-## 📊 Interview Report System
+## Interview Report System
 
 * Score generation
 * Performance feedback
@@ -53,7 +53,7 @@ IntelliPrep.AI allows users to:
 * Payment Verification
 * Payment History Storage
 
-## 📂 Interview Management
+## Interview Management
 
 * Interview setup system
 * Timer-based interview session
@@ -62,7 +62,7 @@ IntelliPrep.AI allows users to:
 
 ---
 
-# 🏗️ System Architecture
+# System Architecture
 
 ```
 User
@@ -80,7 +80,7 @@ Node.js Backend (Express)
 
 ---
 
-# ⚙️ Tech Stack
+# Tech Stack
 
 ## Frontend
 
@@ -109,7 +109,7 @@ Node.js Backend (Express)
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```
 IntelliPrep.AI/
@@ -137,7 +137,7 @@ IntelliPrep.AI/
 
 ---
 
-# 🔄 Workflow
+# Workflow
                          ┌──────────────────────┐
                          │        USER          │
                          │  (Web Browser)       │
@@ -223,7 +223,7 @@ IntelliPrep.AI/
 
 ---
 
-# 🧩 API Modules
+# API Modules
 
 ## Authentication API
 
@@ -250,7 +250,7 @@ POST /api/payment/verify
 
 ---
 
-# 🗄️ Database Collections
+# Database Collections
 
 ## User Collection
 
@@ -283,13 +283,13 @@ Stores:
 
 ---
 
-# 🔧 Installation Guide
+# Installation Guide
 
 Follow these steps to run the project locally.
 
 ---
 
-## 1️⃣ Clone Repository
+## 1️ Clone Repository
 
 ```
 git clone https://github.com/creator1404/IntelliPrep.AI.git
@@ -299,7 +299,7 @@ cd IntelliPrep.AI
 
 ---
 
-## 2️⃣ Install Backend Dependencies
+## 2️ Install Backend Dependencies
 
 ```
 cd server
@@ -309,7 +309,7 @@ npm install
 
 ---
 
-## 3️⃣ Install Frontend Dependencies
+## 3️ Install Frontend Dependencies
 
 ```
 cd ../client
@@ -319,7 +319,7 @@ npm install
 
 ---
 
-## 4️⃣ Setup Environment Variables
+## 4️ Setup Environment Variables
 
 Create `.env` file inside **server** folder.
 
@@ -339,7 +339,7 @@ RAZORPAY_KEY_SECRET=your_secret
 
 ---
 
-## 5️⃣ Run Backend Server
+## 5️ Run Backend Server
 
 ```
 cd server
@@ -355,7 +355,7 @@ http://localhost:5000
 
 ---
 
-## 6️⃣ Run Frontend
+## 6️ Run Frontend
 
 ```
 cd client
@@ -371,7 +371,7 @@ http://localhost:5173
 
 ---
 
-# 📊 Future Enhancements
+# Future Enhancements
 
 * Voice-based interviews
 * Video interview simulation
@@ -382,19 +382,7 @@ http://localhost:5173
 
 ---
 
-# 📸 Screenshots (Add Later)
-
-You can add:
-
-* Home Page
-* Interview Setup Page
-* Interview Screen
-* Report Page
-* Pricing Page
-
----
-
-# 📄 License
+# License
 
 This project is licensed under the MIT License.
 
